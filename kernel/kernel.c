@@ -6,5 +6,5 @@ void kernel_main() {
         video[i * 2 + 1] = 0x07;
     }
 
-    while (1); // sonsuza kadar burada bekle
+    while (1);
 }
